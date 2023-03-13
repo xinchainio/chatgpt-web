@@ -1,9 +1,9 @@
 {
-  "name": "chatgpt-web-service",
+  "name": "XinChain AI-service",
   "version": "1.0.0",
   "private": false,
-  "description": "ChatGPT Web Service",
-  "author": "ChenZhaoYu <chenzhaoyu1994@gmail.com>",
+  "description": "XinChain AI Service",
+  "author": "",
   "keywords": [
     "chatgpt-web",
     "chatgpt",
